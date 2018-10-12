@@ -11,7 +11,7 @@ I bought the course because I want a good refresher on web development before I 
 
 The main content of this blog will consist of my thoughts on different sections of the course as I work through them, notes on parts of the lectures I find interesting and important, and finally some links to stuff I make while taking the course.
 
-Although I know a good amount about computers (use Linux as my main OS, comfortable with the commmand line, able to follow most technical documentation, have done some Python programming, etc.), I am going to approach everything in this course as if I was a newcomer to the subject. I believe this will be good for me in a number of ways and I will expand on why in the next post I make.
+Although I know a good amount about computers (use Linux as my main OS, comfortable with the command line, able to follow most technical documentation, have setup web and game servers, have made simple websites, have done some Python programming, etc.), I am going to approach everything in this course as if I was a newcomer to the subject. I believe this will be good for me in a number of ways and I will expand on why in the next post I make.
 
 I will attempt to continue posting on a regular basis, at least a few times a week until I complete the course. After that I will probably host a blog elsewhere and post a link to it in my final post here.
 

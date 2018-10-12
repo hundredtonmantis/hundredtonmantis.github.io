@@ -21,8 +21,7 @@ As nice as it is to be able to completely customize a system to fit your liking,
 ***
 
 So, while I will continue to enjoy my customized i3 Window Manager setup; I am using the standard Ubuntu LTS install, I have
-install Chromium, and I have installed Sublime Text for my editor. Because that is the recommended options for this course and 
-I don't need to be fighting to use my entire choice of weapons right now. I need to be completing this web development course.
+installed Chromium for my development learning browser, and I have installed Sublime Text for my learning editor. Because that is the recommended options for this course and I don't need to be fighting to use my entire choice of weapons right now. I need to be completing this web development course.
 
 That's all for now but I plan to write a little more on this subject in a later post.
 
